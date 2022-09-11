@@ -1,5 +1,3 @@
-[Link text Here](https://link-url-here.org)
-
 # Darwin Eleet Tracker
 
 <br />
